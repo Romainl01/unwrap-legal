@@ -122,8 +122,8 @@ The reports contain:
   correcting a name (only that it changed, never the name), and erasing
   everything;
 - **your answers about notifications and rating**: whether you allowed the
-  evening reminder and at what time, and whether you answered the "do you like
-  it so far" question with a thumbs up or down;
+  evening reminder and at what time, and how you answered "Enjoying it so
+  far?" (Love it, or Not yet), and whether Apple's rating sheet could be shown;
 - **the subscription screen**: when it is shown, how far you scrolled, which
   plan you selected, which questions you opened, and whether a purchase or a
   restore started, succeeded or failed;
