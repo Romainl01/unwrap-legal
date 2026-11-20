@@ -6,5 +6,6 @@ partner.
 
 - [Privacy Policy](privacy-policy)
 - [Terms of Use](terms-of-service)
+- [Support](support)
 
 Contact: romainlagrange33@gmail.com
